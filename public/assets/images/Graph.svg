@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="187" height="187" viewBox="0 0 187 187">
+  <g id="Graph" transform="translate(-86 -116)">
+    <g id="Group_21165" data-name="Group 21165" transform="translate(-295 -465)">
+      <g id="Ellipse_245" data-name="Ellipse 245" transform="translate(568 581) rotate(90)" fill="rgba(255,255,255,0)" stroke="#f989a9" stroke-linecap="round" stroke-width="2" stroke-dasharray="265">
+        <circle cx="93.5" cy="93.5" r="93.5" stroke="none"/>
+        <circle cx="93.5" cy="93.5" r="92.5" fill="none"/>
+      </g>
+      <g id="Ellipse_246" data-name="Ellipse 246" transform="translate(392 698) rotate(90)" fill="#fa487a" stroke="#f989a9" stroke-linecap="round" stroke-width="2" stroke-dasharray="265">
+        <circle cx="5" cy="5" r="5" stroke="none"/>
+        <circle cx="5" cy="5" r="4" fill="none"/>
+      </g>
+    </g>
+    <g id="Ellipse_247" data-name="Ellipse 247" transform="translate(106 136)" fill="rgba(255,255,255,0)" stroke="#39cc4d" stroke-linecap="round" stroke-width="2" stroke-dasharray="225">
+      <circle cx="73.5" cy="73.5" r="73.5" stroke="none"/>
+      <circle cx="73.5" cy="73.5" r="72.5" fill="none"/>
+    </g>
+    <g id="Ellipse_249" data-name="Ellipse 249" transform="translate(126 156)" fill="rgba(255,255,255,0)" stroke="#5abdfd" stroke-linecap="round" stroke-width="2" stroke-dasharray="216">
+      <circle cx="53.5" cy="53.5" r="53.5" stroke="none"/>
+      <circle cx="53.5" cy="53.5" r="52.5" fill="none"/>
+    </g>
+  </g>
+</svg>
